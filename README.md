@@ -16,12 +16,12 @@ Kickstarter campaigns.
 Using the Kickstarter dataset, I created a pivot table to visualize the number of
 successful, failed, and canceled campaign outcomes based on the launch month.
 The following image is a line chart based on the results of the pivot table created.
-![Theater_Outcomes_vs_Launch](C:\Users\myrar\Documents\Data Analytics Bootcamp\Resources\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/MyraJ2021/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 I also created the line graph referenced below to visualize the percentage of
 successful, failed, and canceled plays based on the funding goal amount.
-![Outcomes_vs_Goals](C:\Users\myrar\Documents\Data Analytics Bootcamp\Resources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One possible challenge that could be encountered with creating the chart and graph
